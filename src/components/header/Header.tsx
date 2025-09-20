@@ -12,7 +12,7 @@ import profile from "@/assets/Frame (3).svg"
 
 const Header = () => {
   const handleSignIn = () => {
-    open("https://lesson-8-3-loyiha.vercel.app/");
+    open("https://dashboard-next-react-proyect.vercel.app");
   };
 
   const [show, setShow] = useState<boolean>(true);
